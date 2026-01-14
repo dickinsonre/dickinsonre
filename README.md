@@ -39,7 +39,7 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdickinson)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rdickinson)
 [![Website](https://img.shields.io/badge/SWMM5.org-00599C?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://swmm5.org)
 
@@ -47,9 +47,10 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dickinsonre&show_icons=true&theme=tokyonight&hide_border=true)
+GitHub Stats: ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=dickinsonre&show_icons=true&theme=radical)
+Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dickinsonre&layout=compact)
+Streak Stats: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickinsonre)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?dickinsonre&YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
