@@ -39,7 +39,7 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdickinson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertdickinson)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rdickinson)
 [![Website](https://img.shields.io/badge/SWMM5.org-00599C?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://swmm5.org)
 
