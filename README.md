@@ -59,6 +59,8 @@ Streak Stats: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/
 Have questions about hydraulic modeling, SWMM, or need help with an InfoSewer migration? I'm always happy to discuss!
 
 ---
+<img width="1525" height="1143" alt="image" src="https://github.com/user-attachments/assets/35c93d6a-d732-4f91-8cfa-cb4df6b62db1" />
+
 
 <p align="center">
   <i>"Transforming decades of hydraulic modeling wisdom into interactive learning experiences"</i>
