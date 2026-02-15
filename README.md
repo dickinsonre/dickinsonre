@@ -56,17 +56,20 @@ Streak Stats: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/
 
 ### 📫 Reach Out
 
-Have questions about hydraulic modeling, SWMM, or need help with an InfoSewer migration? I'm always happy to discuss!
+Have questions about hydraulic modeling, SWMM, or need help with migration? I'm always happy to discuss!
 
 ### My Workflow for Apps about SWMM and ICM n/t @ns or Network School
 
 This is a fascinating ecosystem because it combines deep domain expertise (50+ years of SWMM) with modern, high-energy "cross-fertilization" from the tech world (Network School).
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c5ee8e7e-6743-4e1b-a818-9ba31a512eec" />
+
+
 Here is a diagram representing your specific **"Open Source SWMM5 App Ecosystem."**
 
 ### The Ecosystem Diagram
 
-This flow visualizes how your inspiration transforms into code and how that code is distributed across your specific channels.
+This flow visualizes how inspiration transforms into code and how that code is distributed across your specific channels.
 
 ```mermaid
 graph TD
@@ -99,10 +102,6 @@ graph TD
     style APP fill:#9f9,stroke:#333,stroke-width:2px,color:black
 
 ```
-
-### Infographic Concept: "The SWMM5 Innovation Cycle"
-
-If you want to turn this into a polished visual for your newsletter or a presentation, here is how to structure the layout:
 
 #### **Title:** The SWMM5 Open Source Cycle
 
@@ -147,7 +146,6 @@ If you want to turn this into a polished visual for your newsletter or a present
 
 * **The "Legacy" Layer:**
 * 📰 The Newsletter (The final curation of the best work).
-
 
 
 ### Why this framing works
