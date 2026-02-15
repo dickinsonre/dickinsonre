@@ -59,9 +59,6 @@ Have questions about hydraulic modeling, SWMM, or need help with migration? I'm 
 
 ---
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6d77ba58-f81d-46d9-89db-71e78b7b4778" />
-
-
 ### My Workflow for Apps about SWMM and ICM n/t @ns or Network School
 
 This is a fascinating ecosystem because it combines deep domain expertise (50+ years of SWMM) with modern, high-energy "cross-fertilization" from the tech world (Network School).
