@@ -58,62 +58,98 @@ Streak Stats: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/
 
 Have questions about hydraulic modeling, SWMM, or need help with an InfoSewer migration? I'm always happy to discuss!
 
----
-<img width="1525" height="1143" alt="image" src="https://github.com/user-attachments/assets/35c93d6a-d732-4f91-8cfa-cb4df6b62db1" />
+### My Workflow for Apps about SWMM and ICM n/t @ns or Network School
 
+This is a fascinating ecosystem because it combines deep domain expertise (50+ years of SWMM) with modern, high-energy "cross-fertilization" from the tech world (Network School).
 
-<p align="center">
-  <i>"Transforming decades of hydraulic modeling wisdom into interactive learning experiences"</i>
-</p>
+Here is a diagram representing your specific **"Open Source SWMM5 App Ecosystem."**
 
+### The Ecosystem Diagram
+
+This flow visualizes how your inspiration transforms into code and how that code is distributed across your specific channels.
+
+```mermaid
 graph TD
-    subgraph "Core: My Open-Source Apps"
-        A[My Open-Source Apps<br>(Centered on SWMM5 & ICM SWMM)]
+    subgraph Inspiration ["The Spark & The Foundation"]
+        NS[Network School, Malaysia] -->|Energy, Talent & Cross-Fertilization| ME(You / The Developer)
+        EWRI[EWRI Committee / SWMM5] -->|Domain Expertise & PDE Modeling| ME
+        PD[Public Domain SWMM5] -->|Core Engine| ME
     end
 
-    subgraph "Code Access"
-        B[Source Code<br>(Always Open Source)]
-        C[Doc Tab<br>in the App]
-        D[GitHub Repository<br>(when provided)]
-        B --> C
-        B --> D
+    subgraph Development ["The App Creation"]
+        ME -->|Builds| APP[Open Source App]
+        APP -->|Code Storage A| REPO[GitHub Repository]
+        APP -->|Code Storage B| DOC[In-App 'Doc' Tab]
+        
+        REPO -.->|Not All Apps| APP
+        DOC -.->|Alternative to Repo| APP
     end
 
-    subgraph "Promotion & Visibility"
-        E[Promotion Channels]
-        F[X (Twitter)<br>Every app has a post<br>Sometimes threads/articles]
-        G[Blog Post<br>on swmm5.org<br>(Every app)]
-        H[LinkedIn Articles<br>(Many apps)]
-        I[Newsletter Mention<br>(Eventually all apps)]
-        E --> F
-        E --> G
-        E --> H
-        E --> I
+    subgraph Distribution ["The Content Machine"]
+        APP -->|ALWAYS| BLOG[Blog Post on swmm5.org]
+        APP -->|ALWAYS| TWEET[Tweet on X]
+        APP -.->|SOMETIMES| XART[Article on X]
+        APP -.->|MANY| LINK[Article on LinkedIn]
+        LINK -->|EVENTUALLY| NEWS[SWMM5 Newsletter]
     end
 
-    subgraph "Expertise & Focus"
-        J[Expertise & Focus]
-        K[Active in EWRI SWMM5 Committee]
-        L[Deep knowledge in stormwater modeling<br>& PDE modeling for stormwater<br>(recognized by AI systems)]
-        M[Apps revolve around EPA SWMM5<br>(open source, public domain)<br>and ICM SWMM in InfoWorks ICM]
-        J --> K
-        J --> L
-        J --> M
-    end
+    style ME fill:#f9f,stroke:#333,stroke-width:2px,color:black
+    style NS fill:#bbf,stroke:#333,stroke-width:1px,color:black
+    style NEWS fill:#ff9,stroke:#333,stroke-width:1px,color:black
+    style APP fill:#9f9,stroke:#333,stroke-width:2px,color:black
 
-    subgraph "Inspiration"
-        N[Inspiration Source]
-        O[Network School in Malaysia<br>Boundless energy, talent, and enthusiasm<br>from diverse cohorts<br>(not stormwater modelers)]
-        N --> O
-    end
+```
 
-    A --> B
-    A --> E
-    A --> J
-    A --> N
+### Infographic Concept: "The SWMM5 Innovation Cycle"
 
-    style A fill:#4a90e2,stroke:#333,color:#fff
-    style B fill:#5cb85c,stroke:#333,color:#fff
-    style E fill:#f0ad4e,stroke:#333,color:#fff
-    style J fill:#d9534f,stroke:#333,color:#fff
-    style N fill:#9b59b6,stroke:#333,color:#fff
+If you want to turn this into a polished visual for your newsletter or a presentation, here is how to structure the layout:
+
+#### **Title:** The SWMM5 Open Source Cycle
+
+**Subtitle:** Bridging Deep Hydraulic Modeling with Modern Tech Innovation
+
+---
+
+#### **Panel 1: The Inputs (Cross-Fertilization)**
+
+* **Visual:** A split brain or a handshake.
+* **Left Side (Experience):** Icons of water/pipes and a gavel (Committee).
+* *Text:* "Deep Domain Knowledge: EWRI Committee, PDE Modeling, SWMM5/ICM."
+
+
+* **Right Side (Energy):** A lightning bolt or vibrant network nodes.
+* *Text:* "Fresh Inspiration: Network School (Malaysia). High-energy coding talent & outside-the-box thinking."
+
+
+
+#### **Panel 2: The Code (Open & Accessible)**
+
+* **Visual:** An App Window icon.
+* **Central Rule:** "All Apps are Open Source & Public Domain Focused."
+* **The Fork in the Road:**
+* *Path A:* **Heavy Duty:** Full GitHub Repository.
+* *Path B:* **Lightweight:** Source code embedded directly in the App's "Doc" tab.
+
+
+
+#### **Panel 3: The Broadcast (The Content Engine)**
+
+* **Visual:** A megaphone or signal tower.
+* **The "Always" Layer:**
+* ✅ Blog Post (swmm5.org)
+* ✅ Tweet (X)
+
+
+* **The "Deep Dive" Layer:**
+* 📝 LinkedIn Articles (Technical breakdowns)
+* 📝 X Articles (Long-form thoughts)
+
+
+* **The "Legacy" Layer:**
+* 📰 The Newsletter (The final curation of the best work).
+
+
+
+### Why this framing works
+
+It highlights your unique value proposition: You aren't just an engineer, and you aren't just a coder. You are a bridge. You take the **inspiration** from the youth/tech sector in Malaysia and apply it to the **hard engineering** of the SWMM5 world, resulting in tools that are shared openly.
