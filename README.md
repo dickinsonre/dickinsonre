@@ -51,12 +51,16 @@ GitHub Stats: ![Robert's GitHub stats](https://github-readme-stats.vercel.app/ap
 Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dickinsonre&layout=compact)
 Streak Stats: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickinsonre)
 
-
 ---
 
 ### 📫 Reach Out
 
 Have questions about hydraulic modeling, SWMM, or need help with migration? I'm always happy to discuss!
+
+---
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6d77ba58-f81d-46d9-89db-71e78b7b4778" />
+
 
 ### My Workflow for Apps about SWMM and ICM n/t @ns or Network School
 
