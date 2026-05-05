@@ -4,11 +4,11 @@
 
 ---
 
-- 🌊 **50+ years** of EPA SWMM experience — from punch cards to modern processors
+- 🌊 **48+ years** of EPA SWMM experience — from punch cards to modern processors
 - 🏛️ **SWMM5+ Technical Advisory Committee Chair** at [CIMM.org](https://cimm.org)
-- 🌐 Creator of [**SWMM5.org**](https://swmm5.org) — 1,700+ blog posts, 91+ interactive apps, 133+ Ruby scripts
-- 🎨 Building **"The Dickinson Canon"** — interactive p5.js tools transforming static engineering into dynamic learning
-- 🔄 Specializing in **InfoSewer → ICM InfoWorks** conversions (ArcMap deadline: March 2026)
+- 🌐 Creator of [**SWMM5.org**](https://swmm5.org) — 2000+ blog posts, 100+ interactive apps, 200+ Ruby scripts
+- 🎨 Building interactive p5.js tools transforming static engineering into dynamic learning
+- 🔄 Specializing in **InfoSewer → ICM InfoWorks** conversions (ArcMap platform retirement date of March 1, 2026)
 - 📊 Deep expertise in **RDII analysis** and RTK methodology since 1996
 
 ---
