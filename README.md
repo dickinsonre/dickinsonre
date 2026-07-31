@@ -11,6 +11,9 @@
 - 🔄 Specializing in **InfoSewer → ICM InfoWorks** conversions (ArcMap platform retirement date of March 1, 2026)
 - 📊 Deep expertise in **RDII analysis** and RTK methodology since 1996
 
+-    ## My Tools (Index)
+   [![Index of My Gists](https://github-readme-stats.vercel.app/api/pin/?username=dickinsonre&repo=dbb8be1b30e58d2147adbb470e5e92e6)](https://gist.github.com/dickinsonre/dbb8be1b30e58d2147adbb470e5e92e6)
+
 ---
 
 ### 🛠️ What I Work With
