@@ -13,7 +13,7 @@
 
 ## My Gist HTML App (Index)
 
-[![Index of My Gists](https://github-readme-stats.vercel.app/api/gist?id=dbb8be1b30e58d2147adbb470e5e92e6&theme=dark)](https://gist.github.com/dickinsonre/dbb8be1b30e58d2147adbb470e5e92e6)
+[[Index of My Gists](https://github-readme-stats.vercel.app/api/gist?id=dbb8be1b30e58d2147adbb470e5e92e6&theme=dark)](https://gist.github.com/dickinsonre/dbb8be1b30e58d2147adbb470e5e92e6)
 
 ---
 
